@@ -1,0 +1,3 @@
+/Users/vladislavtrofimov/CLionProjects/laba23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vladislavtrofimov/CLionProjects/laba23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladislavtrofimov/CLionProjects/laba23/cmake-build-debug/CMakeFiles/laba23.dir
