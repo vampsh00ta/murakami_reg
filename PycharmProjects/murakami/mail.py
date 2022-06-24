@@ -2,13 +2,13 @@
 
 
 SERVER = "pop.gmail.com"
-USER  = "lilpenisp@gmail.com"
-PASSWORD = "Terminator2020"
+USER  = ""
+PASSWORD = ""
 
 import imaplib
 import base64
-email_user ="lilpenisp@gmail.com"
-email_pass = "Terminator2020"
+email_user =""
+email_pass = ""
 
 M = imaplib.IMAP4_SSL(SERVER, 993)
 M.login(email_user, email_pass)
